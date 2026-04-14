@@ -6,7 +6,7 @@ import pbl.model.persistencia.PersistirAcervo;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class TesteMidiasDiversa {
+public class TesteMidiasDiversas {
 
     public static void main(String[] args) {
         PersistirAcervo.deserializarAcervo(); // Carrega o acervo existente
